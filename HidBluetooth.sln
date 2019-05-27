@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HidBluetooth", "HidBluetooth\HidBluetooth.csproj", "{9CE63923-6C78-4C4A-AA4A-913DA6600379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CE63923-6C78-4C4A-AA4A-913DA6600379}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{9CE63923-6C78-4C4A-AA4A-913DA6600379}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{9CE63923-6C78-4C4A-AA4A-913DA6600379}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{9CE63923-6C78-4C4A-AA4A-913DA6600379}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{9CE63923-6C78-4C4A-AA4A-913DA6600379}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{9CE63923-6C78-4C4A-AA4A-913DA6600379}.Debug|iPhone.Build.0 = Debug|iPhone
+		{9CE63923-6C78-4C4A-AA4A-913DA6600379}.Release|iPhone.ActiveCfg = Release|iPhone
+		{9CE63923-6C78-4C4A-AA4A-913DA6600379}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+EndGlobal
